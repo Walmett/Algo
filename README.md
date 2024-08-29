@@ -1,1 +1,1 @@
-# Structures
+# C++ structures, algorithms
